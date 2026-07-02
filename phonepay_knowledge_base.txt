@@ -1,0 +1,183 @@
+===========================================================
+PHONEPAY COMPLETE KNOWLEDGE BASE
+===========================================================
+
+--- SECTION 1: ABOUT PHONEPAY ---
+PhonePay is India's leading digital payments and financial services platform, founded in 2015 and headquartered in Bengaluru, Karnataka. It was acquired by Flipkart in 2016 and operates on the Unified Payments Interface (UPI) framework developed by the National Payments Corporation of India (NPCI). PhonePay allows users to make instant money transfers, pay bills, recharge mobiles, book tickets, invest in mutual funds, and buy insurance — all from one app. As of 2024, PhonePay has over 500 million registered users and processes over 2.5 billion transactions per month.
+
+--- SECTION 2: UPI PAYMENTS ---
+PhonePay supports UPI (Unified Payments Interface) for instant bank-to-bank money transfers. Users can send and receive money using UPI IDs (e.g., 9876543210@ybl), mobile numbers linked to bank accounts, or QR codes. UPI transactions are available 24/7 including on bank holidays. The UPI transaction limit on PhonePay is ₹1,00,000 per transaction and ₹2,00,000 per day for most banks. Some banks allow up to ₹5,00,000 per day for specific categories like taxes, hospital bills, and education. For transactions above the limit, users need to use NEFT, RTGS, or IMPS via net banking.
+
+--- SECTION 3: BILL PAYMENTS ---
+PhonePay's bill payment service covers a wide range of utility bills. Users can pay electricity bills, water bills, gas bills (piped and cylinder booking), broadband and landline bills, and cable TV and DTH recharges. PhonePay is connected to over 200 electricity boards across India, including MSEB (Maharashtra), BESCOM (Karnataka), TPDDL (Delhi), BSEB (Bihar), WBSEDCL (West Bengal), and more. Bills can be scheduled or set for reminders so users never miss a due date. PhonePay sends automatic reminders 7 days, 3 days, and 1 day before the due date. Users can also enable auto-pay to automatically deduct bill amounts on the due date.
+
+--- SECTION 4: ELECTRICITY BILL PAYMENT ---
+To pay electricity bills on PhonePay:
+1. Open PhonePay app → tap on "Electricity" under Bill Payments.
+2. Select your electricity board (e.g., MSEB, BESCOM, BSES).
+3. Enter your Consumer Number or Account Number (found on your electricity bill).
+4. The app fetches the bill amount due automatically.
+5. Verify the amount and confirm payment using UPI PIN.
+6. Payment is confirmed instantly and a receipt is generated.
+Common electricity boards: MSEB (Maharashtra), BESCOM (Karnataka), BSES Rajdhani (Delhi), BSES Yamuna (Delhi), TPDDL (Delhi), PSPCL (Punjab), UPPCL (Uttar Pradesh), TNEB (Tamil Nadu), KESCO (Kanpur), JVVNL (Rajasthan).
+Electricity bill reminders: Users can set due-date reminders by going to Bill Payments → Electricity → Manage Bills → Set Reminder. The system will notify the user 7 days, 3 days, and 1 day before the due date.
+
+--- SECTION 5: RENT PAYMENT ---
+PhonePay allows users to pay house rent directly to landlords via UPI. Users go to "Pay Rent" section in the app. They can add their landlord's UPI ID or bank account details. The rental amount, due date (e.g., 1st of every month), and frequency (monthly) can be configured. Reminders are sent 5 days and 1 day before the rent due date. Rent payment history is saved under Transactions for tax purposes (Section 80GG). PhonePay also supports rent receipts that can be downloaded as PDFs for HRA claims.
+
+--- SECTION 6: MOBILE RECHARGE ---
+PhonePay supports prepaid and postpaid mobile recharges for all operators: Jio, Airtel, Vi (Vodafone Idea), BSNL, MTNL. For prepaid recharge, select the operator, enter the number, choose a plan (data packs, talktime, combo). For postpaid bill payment, enter the mobile number and the bill amount is fetched automatically. Cashback and offers are available on select recharges under "Offers" section. Recharge history is saved under My Account → Transaction History.
+
+--- SECTION 7: INSURANCE ON PHONEPAY ---
+PhonePay offers a range of insurance products:
+- Term Life Insurance: Starting at ₹489/year for ₹50 lakh cover.
+- Health Insurance: Plans starting at ₹500/month for family floater plans.
+- Car and Two-Wheeler Insurance: Instant policy renewal and new policy purchase.
+- Travel Insurance: Available for domestic and international trips.
+- Cyber Insurance: Covers digital fraud, UPI fraud, and online shopping scams.
+Insurance is provided by partners like Bajaj Allianz, ICICI Prudential, Niva Bupa, and others.
+
+--- SECTION 8: MUTUAL FUNDS & INVESTMENTS ---
+PhonePay's investment section (PhonePay Money) allows users to:
+- Invest in mutual funds with a minimum of ₹100 via SIP or lump sum.
+- Invest in digital gold (22-karat purity, Safegold backed).
+- Fixed deposits via partner banks starting from ₹1000.
+- Buy/sell government securities and bonds.
+Fund categories available: Equity, Debt, Hybrid, ELSS (Tax Saving), Liquid funds. KYC is mandatory for investments; it can be completed in-app using Aadhaar and PAN card. Returns are market-linked; past performance does not guarantee future results.
+
+--- SECTION 9: LOAN SERVICES ---
+PhonePay provides access to instant personal loans, business loans, and credit lines:
+- Personal Loans: ₹1,000 to ₹15 lakh, disbursal within 10 minutes.
+- Business Loans: For merchants and small businesses, up to ₹50 lakh.
+- Credit Line: Revolving credit up to ₹2 lakh.
+Loan eligibility is determined by credit score (CIBIL), income, and transaction history. EMI repayments can be scheduled on PhonePay and reminders are sent before EMI due dates. Missing EMI payments affects CIBIL score.
+
+--- SECTION 10: PHONEPAY FOR MERCHANTS ---
+PhonePay for Business (formerly PhonePay for Merchants) allows shop owners to:
+- Accept UPI payments via QR code.
+- Track daily, weekly, monthly sales reports.
+- Access business loans based on transaction history.
+- Set up PhonePay payment gateway for e-commerce.
+- Download GST-ready transaction reports.
+Merchant UPI IDs are different from personal UPI IDs. The merchant app (PhonePay Business) is a separate application.
+
+--- SECTION 11: REWARDS AND CASHBACKS ---
+PhonePay offers rewards through its loyalty program "PhonePay Switch" and scratch cards:
+- Scratch cards are awarded on eligible transactions; rewards range from ₹0.10 to ₹1,000.
+- PhonePay SuperCoins are earned and can be redeemed for discounts.
+- Special cashback offers on bill payments, recharges, and merchant transactions.
+- Seasonal offers during festivals (Diwali, Holi, etc.) with higher cashback.
+- PhonePay Pulse weekly challenges offer bonus rewards.
+
+--- SECTION 12: ACCOUNT SECURITY ---
+PhonePay security features:
+- UPI PIN: 4 or 6 digit PIN required for every transaction.
+- App Lock: Biometric (fingerprint/face) or PIN for app access.
+- Transaction Limit: Users can set their own per-transaction and daily limits.
+- Two-Factor Authentication: OTP + UPI PIN for sensitive operations.
+- Fraud Detection: AI-based system flags suspicious transactions.
+- PhonePay never asks for UPI PIN, CVV, or OTP via call, SMS, or chat.
+If a fraud is suspected, users can report at: 1800-102-9090 (toll-free) or through Help Center in the app.
+
+--- SECTION 13: PHONEPAY SWITCH ---
+PhonePay Switch is a mini-app ecosystem within PhonePay that allows third-party apps to integrate. Users can access services like Ola, Myntra, Swiggy, Zomato, MakeMyTrip, RedBus, and more — without leaving the PhonePay app. Mini-apps load instantly and support UPI payments natively.
+
+--- SECTION 14: COMMON ERRORS AND TROUBLESHOOTING ---
+1. "Transaction Failed" error: Usually due to incorrect UPI PIN, insufficient balance, or bank server downtime. Wait and retry. If money is debited, it is auto-refunded within 3-5 business days.
+2. "UPI ID Invalid" error: Double-check the UPI ID spelling. Ensure the receiver's bank account is UPI-enabled.
+3. "Daily Limit Exceeded" error: You have crossed the ₹1,00,000/day UPI limit. Use NEFT or try again next day.
+4. "Bank Account Not Linked" error: Go to My Profile → Bank Accounts → Add Bank Account and link via debit card or net banking.
+5. Pending transactions: If a transaction shows "Pending" for more than 1 hour, contact the bank or PhonePay support.
+
+--- SECTION 15: CUSTOMER SUPPORT ---
+PhonePay customer care:
+- Toll-Free Number: 1800-102-9090 (available 24/7).
+- In-App Help: PhonePay App → Help & Support → Raise a Ticket.
+- Email: support@phonepe.com
+- Twitter: @PhonePeSupport
+- Escalation: If issue not resolved in 7 days, escalate via Nodal Officer at nodal@phonepe.com.
+Grievance Redressal Officer: Available as per RBI guidelines; details available on the PhonePay website.
+
+--- SECTION 16: KYC AND ACCOUNT VERIFICATION ---
+KYC (Know Your Customer) is required for:
+- Transactions above ₹10,000/month without full KYC.
+- Investments, insurance, and loan services.
+- Receiving payments as a merchant.
+Full KYC requires Aadhaar card (Aadhaar-based e-KYC) and PAN card. Minimum KYC (using OTP from Aadhaar) allows up to ₹10,000 per month wallet usage. PhonePay Wallet (separate from UPI) requires KYC as per RBI's Prepaid Payment Instruments guidelines.
+
+--- SECTION 17: IMPORTANT DATES AND REMINDERS ---
+Common bill due dates in India:
+- Electricity Bills: Typically due between 1st–15th of every month depending on the electricity board.
+- MSEB (Maharashtra): Bills due on 15th of every month.
+- BESCOM (Karnataka): Bills due on 20th of every month.
+- Water Bills: Usually quarterly (March, June, September, December).
+- Gas Cylinder Booking: On-demand (no fixed date).
+- Piped Gas Bills: Monthly, due on 10th.
+- House Rent: Due on 1st of every month (typically).
+- Credit Card Bills: Due dates vary per bank (usually 10th–25th of each month).
+- Insurance Premiums: Varies — monthly, quarterly, half-yearly, or annually.
+- EMI Payments: Monthly, as per loan agreement.
+- Income Tax Filing Deadline: July 31st (for individuals) every year.
+- GST Returns: 20th of every month for GSTR-3B.
+
+--- SECTION 18: PHONEPAY SAFETY TIPS ---
+1. Never share your UPI PIN with anyone — not even PhonePay employees.
+2. Be cautious of "PhonePay lottery" or "reward claim" calls — these are scams.
+3. Verify QR codes before scanning at merchant shops.
+4. Enable app lock and biometric authentication.
+5. Use only official PhonePay app from Google Play Store or Apple App Store.
+6. Check for the green tick (verified) on merchant UPI IDs.
+7. Report suspected fraud immediately to 1930 (National Cybercrime Helpline).
+
+--- SECTION 19: PHONEPAY REFERRAL PROGRAM ---
+PhonePay referral program:
+- Refer a friend using your unique referral link.
+- Both you and your friend earn up to ₹200 cashback on the first transaction.
+- Referral rewards are credited within 24 hours of the referred user's first successful transaction.
+- Maximum of 50 referrals per month are eligible for rewards.
+- Referral codes can be shared via WhatsApp, SMS, or any social media.
+
+--- SECTION 20: PHONEPAY ON DIFFERENT PLATFORMS ---
+PhonePay is available on:
+- Android (Google Play Store) — Android 5.0 and above.
+- iOS (Apple App Store) — iOS 12.0 and above.
+- PhonePay web portal (web.phonepe.com) — for limited features like checking transaction history.
+PhonePay does not have a dedicated Windows or macOS desktop app. The minimum internet speed required is 2G (Edge); 4G recommended for best performance.
+
+--- SECTION 21: PHONEPAY WALLET ---
+PhonePay Wallet is a prepaid payment instrument (PPI):
+- Load money from bank accounts, debit cards, or credit cards.
+- Use wallet balance for merchant payments and bill payments.
+- Wallet balance cannot be directly sent to another bank account without full KYC.
+- With full KYC: wallet balance can be transferred to bank accounts.
+- Wallet limit: ₹10,000 (minimum KYC) or ₹1,00,000 (full KYC).
+- Wallet is separate from UPI balance (UPI uses your actual bank account).
+
+--- SECTION 22: PHONEPAY FASTAG ---
+PhonePay supports FASTag recharge for highway toll payments:
+- Recharge your FASTag from PhonePay → Recharges → FASTag.
+- Supported issuers: HDFC, ICICI, Axis, SBI, Paytm Payments Bank, and NHAI.
+- Minimum recharge: ₹100. Maximum: ₹25,000.
+- FASTag balance is reflected in real-time.
+- FASTag reminders can be set when balance falls below a threshold amount.
+
+--- SECTION 23: TRAIN AND FLIGHT BOOKING ---
+PhonePay supports travel bookings via PhonePay Switch:
+- Train Tickets (IRCTC): Book tatkal and general tickets.
+- Flight Tickets: Compare and book via integrated partners (Cleartrip, Ixigo).
+- Bus Tickets: Via RedBus integration.
+- Hotel Booking: Via Goibibo or OYO integrations.
+All bookings support UPI payment, and PhonePay offers exclusive travel cashback during promotional periods.
+
+--- SECTION 24: PHONEPAY CHARGES AND FEES ---
+PhonePay charges:
+- UPI transactions: Free (₹0 for sending money).
+- Bill payments: Usually free; some billers may charge a convenience fee of ₹1–₹25.
+- Mobile Recharge: Free.
+- Mutual Fund transactions: Free (no brokerage for direct funds).
+- Wallet loading via credit card: Up to 2% processing fee.
+- FASTag recharge: Free.
+- International payments: Not supported via UPI; use forex cards or wire transfers.
+===========================================================
+END OF KNOWLEDGE BASE
+===========================================================

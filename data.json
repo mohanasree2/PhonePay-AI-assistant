@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "user_id": "USR001",
+      "name": "Rahul Sharma",
+      "phone": "9876543210",
+      "email": "rahulsharma@gmail.com",
+      "bills": [
+        {
+          "bill_id": "BILL001",
+          "type": "electricity",
+          "provider": "MSEB",
+          "consumer_number": "123456789",
+          "amount": 1850.00,
+          "due_date": "2025-07-15",
+          "status": "unpaid",
+          "reminder_days": [7, 3, 1],
+          "auto_pay": false
+        },
+        {
+          "bill_id": "BILL002",
+          "type": "rent",
+          "provider": "House Rent",
+          "landlord_upi": "landlord123@ybl",
+          "amount": 15000.00,
+          "due_date": "2025-07-01",
+          "status": "unpaid",
+          "reminder_days": [5, 1],
+          "auto_pay": false
+        },
+        {
+          "bill_id": "BILL003",
+          "type": "broadband",
+          "provider": "Jio Fiber",
+          "account_number": "JF9876543",
+          "amount": 999.00,
+          "due_date": "2025-07-10",
+          "status": "paid",
+          "reminder_days": [3, 1],
+          "auto_pay": true
+        },
+        {
+          "bill_id": "BILL004",
+          "type": "credit_card",
+          "provider": "HDFC Bank",
+          "card_last4": "4521",
+          "amount": 12340.50,
+          "due_date": "2025-07-22",
+          "status": "unpaid",
+          "reminder_days": [7, 3, 1],
+          "auto_pay": false
+        },
+        {
+          "bill_id": "BILL005",
+          "type": "water",
+          "provider": "BMC Mumbai",
+          "consumer_number": "WTR78901",
+          "amount": 420.00,
+          "due_date": "2025-09-30",
+          "status": "unpaid",
+          "reminder_days": [7, 3, 1],
+          "auto_pay": false
+        },
+        {
+          "bill_id": "BILL006",
+          "type": "insurance",
+          "provider": "Bajaj Allianz",
+          "policy_number": "BAJ-LI-2024-5678",
+          "amount": 4500.00,
+          "due_date": "2025-07-20",
+          "status": "unpaid",
+          "reminder_days": [15, 7, 1],
+          "auto_pay": false
+        },
+        {
+          "bill_id": "BILL007",
+          "type": "emi",
+          "provider": "HDFC Bank Personal Loan",
+          "loan_account": "LOAN-2023-4321",
+          "amount": 8200.00,
+          "due_date": "2025-07-05",
+          "status": "paid",
+          "reminder_days": [3, 1],
+          "auto_pay": true
+        }
+      ]
+    },
+    {
+      "user_id": "USR002",
+      "name": "Priya Menon",
+      "phone": "9823456701",
+      "email": "priya.menon@example.com",
+      "bills": [
+        {
+          "bill_id": "BILL008",
+          "type": "electricity",
+          "provider": "BESCOM",
+          "consumer_number": "BES654321",
+          "amount": 2200.00,
+          "due_date": "2025-07-20",
+          "status": "unpaid",
+          "reminder_days": [7, 3, 1],
+          "auto_pay": false
+        },
+        {
+          "bill_id": "BILL009",
+          "type": "gas",
+          "provider": "Indane LPG",
+          "consumer_number": "IND-2024-33210",
+          "amount": 903.00,
+          "due_date": "2025-07-18",
+          "status": "unpaid",
+          "reminder_days": [3, 1],
+          "auto_pay": false
+        },
+        {
+          "bill_id": "BILL010",
+          "type": "mobile_postpaid",
+          "provider": "Airtel",
+          "mobile_number": "9823456701",
+          "amount": 599.00,
+          "due_date": "2025-07-12",
+          "status": "unpaid",
+          "reminder_days": [3, 1],
+          "auto_pay": false
+        }
+      ]
+    }
+  ],
+  "bill_categories": {
+    "electricity": {
+      "description": "Monthly electricity consumption bill",
+      "providers": ["MSEB", "BESCOM", "BSEB", "TPDDL", "BSES", "TNEB", "PSPCL", "UPPCL", "KESCO", "WBSEDCL"],
+      "typical_due_date": "15th-20th of every month",
+      "payment_steps": ["Open PhonePay", "Tap Electricity", "Select Provider", "Enter Consumer Number", "Confirm Amount", "Pay with UPI PIN"]
+    },
+    "rent": {
+      "description": "Monthly house rent payment to landlord",
+      "typical_due_date": "1st of every month",
+      "payment_steps": ["Open PhonePay", "Tap Pay Rent", "Add Landlord UPI or Bank Details", "Enter Amount", "Pay with UPI PIN"],
+      "tax_benefit": "Can claim HRA under Section 10(13A)"
+    },
+    "water": {
+      "description": "Quarterly or monthly water bill",
+      "typical_frequency": "quarterly",
+      "typical_due_date": "End of March, June, September, December"
+    },
+    "gas": {
+      "description": "LPG cylinder or piped natural gas bill",
+      "types": ["Indane", "HP Gas", "Bharat Gas", "Mahanagar Gas (piped)"]
+    },
+    "broadband": {
+      "description": "Monthly internet/broadband bill",
+      "providers": ["Jio Fiber", "Airtel Xstream", "ACT Fibernet", "BSNL Broadband"],
+      "typical_due_date": "10th of every month"
+    },
+    "credit_card": {
+      "description": "Monthly credit card bill payment",
+      "note": "Minimum due payment avoids late fees; full payment avoids interest charges"
+    },
+    "insurance": {
+      "description": "Insurance premium payment",
+      "types": ["Life Insurance", "Health Insurance", "Car Insurance", "Two-Wheeler Insurance"],
+      "frequencies": ["monthly", "quarterly", "half-yearly", "annually"]
+    },
+    "emi": {
+      "description": "Equated Monthly Installment for loans",
+      "types": ["Home Loan EMI", "Car Loan EMI", "Personal Loan EMI", "Education Loan EMI"]
+    }
+  }
+}

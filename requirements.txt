@@ -1,0 +1,49 @@
+# ============================================================
+# PhonePay RAG System - Requirements
+# ============================================================
+
+# Core RAG Framework
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-google-genai==2.0.7
+
+# Vector Database
+chromadb==0.5.18
+
+# Google Gemini LLM
+google-genai>=1.0.0
+
+# Embeddings
+sentence-transformers==3.3.1
+
+# Web UI
+streamlit==1.40.2
+
+# Data Processing
+pandas==2.2.3
+numpy==1.26.4
+
+# Date/Time Processing
+python-dateutil==2.9.0
+
+# Scheduling & Reminders (background jobs)
+schedule==1.2.2
+apscheduler==3.10.4
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# PDF Processing (for documents)
+pypdf==5.1.0
+
+# Notifications (local desktop / email)
+plyer==2.1.0
+
+# Logging
+loguru==0.7.2
+
+# HTTP Requests
+requests==2.32.3
+
+# JSON Handling
+jsonschema==4.23.0

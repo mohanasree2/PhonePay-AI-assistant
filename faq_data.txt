@@ -1,0 +1,89 @@
+Q: How do I pay my electricity bill on PhonePay?
+A: Open PhonePay app → tap "Electricity" under Bill Payments → select your electricity board (e.g., MSEB, BESCOM) → enter your Consumer Number → verify the amount → pay using UPI PIN. Payment is confirmed instantly.
+
+Q: What is UPI and how does it work on PhonePay?
+A: UPI (Unified Payments Interface) is an instant payment system developed by NPCI. PhonePay uses UPI to link your bank account. You can send money using UPI ID, mobile number, or QR code, 24/7 including holidays.
+
+Q: What is the UPI transaction limit on PhonePay?
+A: The standard UPI limit is ₹1,00,000 per transaction and ₹2,00,000 per day. For categories like taxes, education, and hospital bills, some banks allow up to ₹5,00,000 per day.
+
+Q: How can I set reminders for my electricity bill?
+A: Go to Bill Payments → Electricity → Manage Bills → Set Reminder. PhonePay will send automatic reminders 7 days, 3 days, and 1 day before the due date.
+
+Q: My transaction failed but money got deducted. What should I do?
+A: Don't panic. Failed transaction refunds are processed automatically within 3-5 business days. If it doesn't reflect, raise a ticket via Help & Support in the app or call 1800-102-9090.
+
+Q: How do I pay rent using PhonePay?
+A: Open PhonePay → go to "Pay Rent" → add your landlord's UPI ID or bank account → enter the amount and due date → pay using UPI PIN. PhonePay sends reminders 5 days and 1 day before rent is due.
+
+Q: Can I get rent receipts from PhonePay?
+A: Yes! After paying rent via PhonePay, you can download PDF rent receipts from Transaction History. These are useful for HRA tax claims under Section 80GG or Section 10(13A).
+
+Q: How do I recharge my Jio/Airtel/Vi mobile on PhonePay?
+A: Go to Recharges → Mobile → select operator (Jio/Airtel/Vi/BSNL) → enter number → choose plan → pay via UPI PIN. Cashback offers are available under the Offers section.
+
+Q: How do I invest in mutual funds on PhonePay?
+A: Go to PhonePay Money → Mutual Funds → complete KYC with Aadhaar and PAN → choose a fund → select SIP (min ₹100/month) or lump sum → invest. All major fund categories are available including ELSS for tax saving.
+
+Q: Is PhonePay safe to use?
+A: Yes. PhonePay uses 256-bit SSL encryption, AI-based fraud detection, and requires UPI PIN for every transaction. Enable app lock and biometric authentication for extra security. Never share your UPI PIN with anyone.
+
+Q: How do I report fraud on PhonePay?
+A: Call the National Cybercrime Helpline at 1930, or PhonePay toll-free at 1800-102-9090. You can also report via Help & Support in the app. For UPI fraud, file a complaint with your bank within 3 business days.
+
+Q: What is PhonePay Switch?
+A: PhonePay Switch is a mini-app platform inside PhonePay that lets you access Ola, Swiggy, Zomato, MakeMyTrip, Myntra, RedBus, and many more services without leaving the PhonePay app. Payments via UPI are natively supported.
+
+Q: Can I pay water bill on PhonePay?
+A: Yes. Go to Bill Payments → Water → select your water board (e.g., BMC Mumbai, BWSSB Bangalore) → enter account number → pay. Water bills are often quarterly; PhonePay sends reminders before due date.
+
+Q: How do I pay gas bill (piped/LPG) on PhonePay?
+A: Go to Bill Payments → Gas → select LPG company (Indane, HP Gas, Bharat Gas) or piped gas provider (Mahanagar Gas) → enter consumer number → pay. LPG cylinder booking is also available.
+
+Q: What is PhonePay Wallet? Is it different from UPI?
+A: Yes. PhonePay Wallet is a prepaid wallet (like a digital purse). You load money into it. With minimum KYC, wallet limit is ₹10,000. UPI directly uses your bank account balance; it's different from the wallet.
+
+Q: How do I pay credit card bill using PhonePay?
+A: Go to Bill Payments → Credit Card → select bank (HDFC, ICICI, SBI, etc.) → enter card number → verify amount → pay. Always pay the full amount to avoid high interest charges.
+
+Q: How do I recharge FASTag on PhonePay?
+A: Go to Recharges → FASTag → select your bank/issuer → enter vehicle number or FASTag linked number → enter recharge amount (min ₹100) → pay. Balance updates in real-time.
+
+Q: What should I do if my UPI PIN is blocked?
+A: Your UPI PIN gets blocked after 3 wrong attempts. Go to PhonePay → My Profile → Bank Accounts → Reset UPI PIN. You'll need your debit card number and expiry date to reset it.
+
+Q: How do I get a personal loan on PhonePay?
+A: Go to PhonePay → Loans → Check Eligibility. If eligible (based on CIBIL score and transaction history), you can get ₹1,000 to ₹15 lakh disbursed in 10 minutes. EMI reminders are set automatically.
+
+Q: When is my electricity bill due?
+A: It depends on your electricity board. MSEB (Maharashtra) bills are due on the 15th, BESCOM (Karnataka) on the 20th. Check your bill or set a reminder in PhonePay to never miss a due date.
+
+Q: When is rent typically due?
+A: Rent is usually due on the 1st of every month. You can configure your rent schedule in PhonePay and it will remind you 5 days and 1 day before.
+
+Q: What happens if I miss a bill payment?
+A: Missing payments can result in late fees, service disconnection (electricity/water), credit score impact (credit card/EMI), and insurance policy lapse. PhonePay reminders help you avoid this.
+
+Q: How do I enable auto-pay for bills?
+A: Go to Bill Payments → select the bill type → Manage Bills → Enable Auto-Pay. You set a maximum limit and PhonePay automatically pays on the due date from your linked bank account.
+
+Q: How do I check my transaction history on PhonePay?
+A: Open PhonePay → go to My Account → Transaction History. You can filter by date, amount, or payment type. Transactions can be exported as PDF or Excel for records.
+
+Q: What is PhonePay customer care number?
+A: PhonePay 24/7 toll-free number is 1800-102-9090. You can also use in-app Help & Support, email support@phonepe.com, or tweet @PhonePeSupport.
+
+Q: Can I pay income tax on PhonePay?
+A: Yes. Go to Bill Payments → Taxes → Income Tax. You can pay advance tax, self-assessment tax, and TDS on rent. The UPI limit for taxes can be up to ₹5,00,000 per transaction.
+
+Q: How do I pay GST returns via PhonePay?
+A: PhonePay supports GST payment via the Taxes section. Enter your GSTIN and challah number, and pay using UPI. GST returns (GSTR-3B) are due on the 20th of every month.
+
+Q: How do I book train tickets via PhonePay?
+A: Go to PhonePay Switch → IRCTC mini-app → enter journey details → select train and class → enter passenger details → pay via UPI. Tatkal and general booking supported.
+
+Q: Does PhonePay support international payments?
+A: No. PhonePay UPI does not support international transfers. Use SWIFT/wire transfer, forex cards, or international remittance services for overseas payments.
+
+Q: How do I buy health insurance on PhonePay?
+A: Go to PhonePay → Insurance → Health Insurance → choose plan → fill in member details → complete KYC → pay premium. Plans start from ₹500/month for family floater coverage.
