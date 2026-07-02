@@ -1,10 +1,10 @@
-# 💜 PhonePay RAG AI Assistant
+#  PhonePay RAG AI Assistant
 
 An advanced, end-to-end Retrieval-Augmented Generation (RAG) system built to track billing information, manage transactional alerts, and answer complex financial platform queries. The system leverages **Google Gemini LLM**, **LangChain orchestration**, and a local **Chroma vector database** to provide intelligent contextual answers about payments, UPI protocols, investments, and custom user invoice states.
 
 ---
 
-## 🏗️ System Architecture & Workflow
+##  System Architecture & Workflow
 
 The framework operates through an isolated data ingestion, vector indexing, and query execution pipeline:
 ```text
