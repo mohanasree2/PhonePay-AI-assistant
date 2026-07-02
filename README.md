@@ -24,7 +24,7 @@ The framework operates through an isolated data ingestion, vector indexing, and 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 phonepe-rag/
@@ -115,6 +115,7 @@ Note: During cloud deployment configuration setup, enter all environmental strin
 
 ### here you see the deployment of this app
 Loacl streamlit deployment: http://localhost:8501/
+
 Hugging Face deployment: https://huggingface.co/spaces/Mohanasree-2/Phonepay_AI_Assistant-v2/tree/main
 
 Here i created duplicate space and saved my key in private
